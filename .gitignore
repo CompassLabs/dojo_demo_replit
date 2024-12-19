@@ -6,3 +6,4 @@ pyproject.toml
 *.pyc
 .vscode/settings.json
 dojo_demo_replit.code-workspace
+.DS_Store
